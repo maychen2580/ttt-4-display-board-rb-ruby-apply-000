@@ -11,4 +11,3 @@ def display_board (board)
 end 
  
  
-rows = "#{board[0]} | #{board[1]} | #{board[2]}"  
